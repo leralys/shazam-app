@@ -1,0 +1,579 @@
+{
+  "data": {
+    "tracks": {
+      "hits": [
+        {
+          "track": {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "46596222",
+            "title": "Dlz",
+            "subtitle": "TV On The Radio",
+            "share": {
+              "subject": "Dlz - TV On The Radio",
+              "text": "I used Shazam to discover Dlz by TV On The Radio.",
+              "href": "https://www.shazam.com/track/46596222/dlz",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/b2/ea/b9b2ea5d-4671-efb2-32c3-57984d607650/00602517840522.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Dlz by TV On The Radio.",
+              "html": "https://www.shazam.com/snippets/email-share/46596222?lang=en-US&country=US",
+              "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/43/79/42/437942d3-e0c4-c3ca-b234-47234baf1070/mzl.kcscecpl.jpg/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/46596222"
+            },
+            "images": {
+              "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/43/79/42/437942d3-e0c4-c3ca-b234-47234baf1070/mzl.kcscecpl.jpg/800x800cc.jpg",
+              "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/b2/ea/b9b2ea5d-4671-efb2-32c3-57984d607650/00602517840522.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/b2/ea/b9b2ea5d-4671-efb2-32c3-57984d607650/00602517840522.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:090f0fp:e0eefas:a5c9ect:b5c2cbq:85a4bf"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1442865416"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/fd/19/7cfd19f5-5e5e-c072-d20c-61b3fe04c81f/mzaf_13016373019560425052.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/dlz/1442865075?i=1442865416&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/dlz/1442865075?i=1442865416&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/dlz/1442865075?i=1442865416&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": { "type": "buy", "providername": "itunes" },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Dlz%20TV%20on%20the%20Radio"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Dlz%27%20artist%3A%27TV+On+The+Radio%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "artists": [{ "id": "42", "adamid": "6562624" }],
+            "url": "https://www.shazam.com/track/46596222/dlz"
+          }
+        },
+        {
+          "track": {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "561004465",
+            "title": "11th Hour",
+            "subtitle": "ChrispyD & Abstract & DLZ",
+            "share": {
+              "subject": "11th Hour - ChrispyD & Abstract & DLZ",
+              "text": "I used Shazam to discover 11th Hour by ChrispyD & Abstract & DLZ.",
+              "href": "https://www.shazam.com/track/561004465/11th-hour",
+              "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9c/42/57/9c425747-6129-f8b4-794a-22191ca23c6c/artwork.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover 11th Hour by ChrispyD & Abstract & DLZ.",
+              "html": "https://www.shazam.com/snippets/email-share/561004465?lang=en-US&country=US",
+              "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/4b/81/f9/4b81f94f-1378-2e04-0322-d75893f66f3b/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/561004465"
+            },
+            "images": {
+              "background": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/4b/81/f9/4b81f94f-1378-2e04-0322-d75893f66f3b/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9c/42/57/9c425747-6129-f8b4-794a-22191ca23c6c/artwork.jpg/400x400cc.jpg",
+              "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/9c/42/57/9c425747-6129-f8b4-794a-22191ca23c6c/artwork.jpg/400x400cc.jpg",
+              "joecolor": "b:0b070dp:f4b219s:ea9e2dt:c59016q:be8027"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1556972186"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/d6/ed/76/d6ed7647-2e3d-3fe9-9e49-9a483316be86/mzaf_7699499508334749288.plus.aac.p.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/11th-hour/1556972184?i=1556972186&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/11th-hour/1556972184?i=1556972186&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/11th-hour/1556972184?i=1556972186&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": { "type": "buy", "providername": "itunes" },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:11th%20Hour%20ChrispyD"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%2711th+Hour%27%20artist%3A%27ChrispyD++Abstract++DLZ%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "artists": [{ "id": "42", "adamid": "1212809986" }],
+            "url": "https://www.shazam.com/track/561004465/11th-hour"
+          }
+        },
+        {
+          "track": {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "470933598",
+            "title": "Illusions",
+            "subtitle": "DLZ Feat. Ryan Oakes",
+            "share": {
+              "subject": "Illusions - DLZ Feat. Ryan Oakes",
+              "text": "I used Shazam to discover Illusions by DLZ Feat. Ryan Oakes.",
+              "href": "https://www.shazam.com/track/470933598/illusions",
+              "image": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/f3/a0/79/f3a07949-3ca6-c943-670f-912846dbffd7/artwork.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Illusions by DLZ Feat. Ryan Oakes.",
+              "html": "https://www.shazam.com/snippets/email-share/470933598?lang=en-US&country=US",
+              "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features128/v4/e9/b2/8c/e9b28c16-8d11-5de1-45d1-8027497cdc16/575649519_image.jpg/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/470933598"
+            },
+            "images": {
+              "background": "https://is4-ssl.mzstatic.com/image/thumb/Features128/v4/e9/b2/8c/e9b28c16-8d11-5de1-45d1-8027497cdc16/575649519_image.jpg/800x800cc.jpg",
+              "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/f3/a0/79/f3a07949-3ca6-c943-670f-912846dbffd7/artwork.jpg/400x400cc.jpg",
+              "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/f3/a0/79/f3a07949-3ca6-c943-670f-912846dbffd7/artwork.jpg/400x400cc.jpg",
+              "joecolor": "b:acacacp:060606s:060606t:272727q:272727"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1470780575"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/76/89/45/76894519-770e-4479-40e9-58fc1496d3c4/mzaf_17419420007097765285.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/illusions-feat-ryan-oakes/1470780566?i=1470780575&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/illusions-feat-ryan-oakes/1470780566?i=1470780575&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/illusions-feat-ryan-oakes/1470780566?i=1470780575&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": { "type": "buy", "providername": "itunes" },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Illusions%20DLZ"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Illusions%27%20artist%3A%27DLZ%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": true,
+              "displayname": "APPLE MUSIC"
+            },
+            "artists": [{ "id": "42", "adamid": "575649519" }],
+            "url": "https://www.shazam.com/track/470933598/illusions"
+          }
+        },
+        {
+          "track": {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "611670328",
+            "title": "HIT A DOUBLE (remix)",
+            "subtitle": "DLZ & 27CLUB",
+            "share": {
+              "subject": "HIT A DOUBLE (remix) - DLZ & 27CLUB",
+              "text": "I used Shazam to discover HIT A DOUBLE (remix) by DLZ & 27CLUB.",
+              "href": "https://www.shazam.com/track/611670328/hit-a-double-remix",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/f6/64/3d/f6643d25-d16e-ef40-3e02-94d6b69bdce2/artwork.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover HIT A DOUBLE (remix) by DLZ & 27CLUB.",
+              "html": "https://www.shazam.com/snippets/email-share/611670328?lang=en-US&country=US",
+              "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features128/v4/e9/b2/8c/e9b28c16-8d11-5de1-45d1-8027497cdc16/575649519_image.jpg/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/611670328"
+            },
+            "images": {
+              "background": "https://is4-ssl.mzstatic.com/image/thumb/Features128/v4/e9/b2/8c/e9b28c16-8d11-5de1-45d1-8027497cdc16/575649519_image.jpg/800x800cc.jpg",
+              "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/f6/64/3d/f6643d25-d16e-ef40-3e02-94d6b69bdce2/artwork.jpg/400x400cc.jpg",
+              "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/f6/64/3d/f6643d25-d16e-ef40-3e02-94d6b69bdce2/artwork.jpg/400x400cc.jpg",
+              "joecolor": "b:000000p:a1f2f6s:5fe5f0t:81c2c5q:4cb7c0"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1618518565"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/aa/d2/ccaad27c-7cf6-1991-abab-16400e369e3f/mzaf_13209058012460690075.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/hit-a-double-remix/1618518564?i=1618518565&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/hit-a-double-remix/1618518564?i=1618518565&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/hit-a-double-remix/1618518564?i=1618518565&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": { "type": "buy", "providername": "itunes" },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:HIT%20A%20DOUBLE%20%28remix%29%20DLZ"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27HIT+A+DOUBLE+%28remix%29%27%20artist%3A%27DLZ++27CLUB%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": true,
+              "displayname": "APPLE MUSIC"
+            },
+            "artists": [{ "id": "42", "adamid": "575649519" }],
+            "url": "https://www.shazam.com/track/611670328/hit-a-double-remix"
+          }
+        }
+      ]
+    },
+    "artists": {
+      "hits": [
+        {
+          "artist": {
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features128/v4/e9/b2/8c/e9b28c16-8d11-5de1-45d1-8027497cdc16/575649519_image.jpg/800x800bb.jpg",
+            "name": "DLZ",
+            "verified": false,
+            "weburl": "https://music.apple.com/us/artist/dlz/575649519",
+            "adamid": "575649519"
+          }
+        },
+        {
+          "artist": {
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/43/79/42/437942d3-e0c4-c3ca-b234-47234baf1070/mzl.kcscecpl.jpg/800x800bb.jpg",
+            "name": "TV on the Radio",
+            "verified": false,
+            "weburl": "https://music.apple.com/us/artist/tv-on-the-radio/6562624",
+            "adamid": "6562624"
+          }
+        },
+        {
+          "artist": {
+            "name": "dlz",
+            "verified": false,
+            "weburl": "https://music.apple.com/us/artist/dlz/1491502202",
+            "adamid": "1491502202"
+          }
+        },
+        {
+          "artist": {
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/8c/28/ec/8c28ec85-4984-4ae4-1b5a-6215cf4c22cb/pr_source.png/800x800bb.jpg",
+            "name": "DLZ",
+            "verified": false,
+            "weburl": "https://music.apple.com/us/artist/dlz/1508587494",
+            "adamid": "1508587494"
+          }
+        },
+        {
+          "artist": {
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/33/9b/7c/339b7c9f-2be8-d420-625e-a3b21ece13d7/1963629995333_cover.jpg/800x800ac.jpg",
+            "name": "DL$Z",
+            "verified": false,
+            "weburl": "https://music.apple.com/us/artist/dl%24z/1600717020",
+            "adamid": "1600717020"
+          }
+        }
+      ]
+    }
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "ver",
+    "access-control-allow-methods": "GET, POST",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "content-length": "18247",
+    "content-type": "application/json",
+    "date": "Sun, 12 Jun 2022 14:03:22 GMT",
+    "server": "RapidAPI-1.2.8",
+    "x-rapidapi-region": "AWS - eu-central-1",
+    "x-rapidapi-version": "1.2.8",
+    "x-ratelimit-requests-limit": "500",
+    "x-ratelimit-requests-remaining": "495",
+    "x-ratelimit-requests-reset": "2588664"
+  },
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "transformRequest": [null],
+    "transformResponse": [null],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": { "FormData": null },
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "X-RapidAPI-Key": "",
+      "X-RapidAPI-Host": "shazam.p.rapidapi.com"
+    },
+    "baseURL": "https://shazam.p.rapidapi.com",
+    "params": { "term": "DLZ", "locale": "en-US", "offset": "0", "limit": "5" },
+    "method": "get",
+    "url": "/search"
+  },
+  "request": {}
+}
