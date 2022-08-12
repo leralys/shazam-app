@@ -1,7 +1,6 @@
 import React from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db/db';
-import { addToFavorites, findByKeyAndDelete } from '../../db/handler';
 import { useAppSelector, useAppDispatch } from '../../store/hooks';
 import { songsActions, loadMoreSongs } from '../../store/slices/songsSlice';
 import { IconButton, Button } from '@mui/material';
@@ -41,7 +40,7 @@ const SearchResultsList = () => {
 
   const requestAddToFavorites = async (e: any, index: number) => {
     try {
-      await addToFavorites(foundSongs[index], Date.now());
+      await db.addToFavorites(foundSongs[index], Date.now());
     } catch (error) {
       console.log(error);
     }
@@ -49,7 +48,7 @@ const SearchResultsList = () => {
 
   const requestFindByKeyAndDelete = async (key: string) => {
     try {
-      await findByKeyAndDelete(key);
+      await db.findByKeyAndDelete(key);
     } catch (error) {
       console.log(error);
     }
