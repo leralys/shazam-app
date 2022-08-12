@@ -31,6 +31,7 @@ const HomePage = () => {
     if (!getSearchHistory()) {
       setRecentSearch(recentSearch);
     }
+    //eslint-disable-next-line
   }, [setRecentSearch]);
 
   // show the most recent search on the first mount of the app
@@ -45,6 +46,7 @@ const HomePage = () => {
       }
       dispatch(songsActions.setNotIsFirstMount());
     }
+    //eslint-disable-next-line
   }, [dispatch, isFirstMount]);
 
   return (
