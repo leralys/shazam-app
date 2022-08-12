@@ -1,8 +1,6 @@
 import React from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db/db';
-
-import { deleteFromFavorites } from '../../db/handler';
 import { IFavoriteSongsTable } from '../../db/db';
 import { formatDate } from '../../utils/formatDate';
 import { Typography, IconButton } from '@mui/material';
@@ -28,7 +26,7 @@ const FavoritesList = () => {
   ) => {
     if (id) {
       try {
-        deleteFromFavorites(id);
+        db.deleteFromFavorites(id);
       } catch (err) {
         console.log(err);
       }
